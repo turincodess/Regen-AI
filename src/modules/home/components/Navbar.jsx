@@ -2,7 +2,7 @@
 
 
 import Link from "next/link";
-import { Navbar } from "flowbite-react";
+import  Navbar  from "flowbite-react";
 
 export default function Navbar2() {
   return (
